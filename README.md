@@ -1,30 +1,30 @@
 # Malak Abed
 
-Backend Developer focused on building scalable APIs, backend systems, and cloud-based applications.
+Dedicated to optimizing business workflows and architecting intelligent automation pipelines that eliminate operational bottlenecks.
 
-## About
+## About Me
 
-I develop backend applications using Node.js, Express.js, MongoDB, and PostgreSQL. My work focuses on API design, system architecture, database modeling, and cloud deployment.
+Backend & Automation Developer specializing in building scalable backend systems and workflow automation solutions.
 
-## Technologies
+I focus on developing RESTful APIs, backend architecture, and intelligent automations using Node.js, databases (SQL/NoSQL), and tools like n8n. My goal is to turn complex business processes into simple, efficient, and automated systems that are reliable and easy to scale.
 
-* JavaScript
-* Node.js
-* Express.js
-* MongoDB
-* PostgreSQL
-* PHP
-* REST APIs
-* Git & GitHub
-* Docker
+## Technologies & Tools
 
-## Current Focus
+* **Languages & Core:** JavaScript (ES6+), PHP, TypeScript
+* **Backend Frameworks:** Node.js, Express.js, RESTful APIs
+* **Automation & AI:** n8n Workflow Design, Custom Webhooks, AI Integrations, Telegram Bots
+* **Databases & Tools:** MongoDB, PostgreSQL, SQLite, Git & GitHub, Docker, Postman, Swagger UI
 
-* Backend architecture
-* API development
-* Database design
-* Cloud deployment
-* Software engineering best practices
+---
+
+## Current Focus & Expertise
+
+* **Backend Architecture & System Design:** Building modular, secure, and highly available services.
+* **Intelligent Workflow Automation:** Engineering advanced data integration and notification pipelines.
+* **Database Optimization:** Designing structured, optimized database schemas for smooth scaling.
+* **Cloud Deployment:** Managing modern cloud environments and automation infrastructure best practices.
+
+---
 
 ## Contact
 
